@@ -13,6 +13,6 @@ fun main(){
 
     println("********************")
     println("Month: $month month")
-    println("Year: $year year ${month%12} month")
+    println("Year: $year year ${month % 12} month")
     println("********************")
 }
