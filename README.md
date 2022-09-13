@@ -1,2 +1,2 @@
 # kotlin-tasks
-Tasks for the beginners
+Tasks and Projects for the beginners
