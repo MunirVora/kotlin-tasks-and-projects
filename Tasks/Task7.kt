@@ -19,6 +19,8 @@ fun main(){
         }
     }
 
+    println("********************")
     println("Sum of even numbers: $evenSum")
     println("Sum of odd numbers: $oddSum")
+    println("********************")
 }
