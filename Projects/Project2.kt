@@ -1,5 +1,5 @@
 // KBC app using functions
-// Each question with different functions
+// Each question has different functions
 import java.util.Scanner
 
 fun que1(): String {
