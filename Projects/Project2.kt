@@ -124,7 +124,6 @@ fun showQueAndCheckAns(){
 
 
         while(true) {
-            println("Ans : ${ans[i]}")
             println("Enter your Answer: ")
             val userAns:String = sc.next().uppercase()
 
