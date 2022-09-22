@@ -1,5 +1,5 @@
 // KBC app using functions
-// Each question with different functions
+// Each question has different function
 import java.util.Scanner
 
 fun que1(): String {
@@ -124,7 +124,6 @@ fun showQueAndCheckAns(){
 
 
         while(true) {
-            println("Ans : ${ans[i]}")
             println("Enter your Answer: ")
             val userAns:String = sc.next().uppercase()
 
